@@ -36,7 +36,7 @@ Automated coding challenge execution platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsan1011664&show_icons=true" />
 </p>
 
 <p align="center">
